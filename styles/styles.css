@@ -198,6 +198,7 @@ h4{
     align-content: center;
     margin-top: 100px;    
     gap: 20px;
+    text-align: center;
        
 }
 .promociones_borde{
@@ -370,5 +371,12 @@ i{
     .wrapper{
     display: flex;
     flex-direction: column;
+    }
 }
-}
+
+@media (max-width: 511px){
+    h2{
+        position: unset;
+    }
+   
+} 
