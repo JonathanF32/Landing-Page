@@ -380,3 +380,15 @@ i{
     }
    
 } 
+@media (max-width: 435px){
+    #header{
+    display: flex;
+    position: unset;
+    height: 175px;  
+    margin: unset;
+
+    }
+    #header-img{ 
+        height: 170px;
+     
+}
