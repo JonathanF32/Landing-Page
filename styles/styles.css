@@ -378,7 +378,10 @@ i{
     h2{
         position: unset;
     }
-   
+   .lista_beneficio{
+    margin-left: 35px;
+    width: 80%;
+   }
 } 
 @media (max-width: 435px){
     #header{
