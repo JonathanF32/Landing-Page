@@ -396,3 +396,11 @@ i{
      
 }
  }
+ @media (max-width: 435px){
+    #submit{
+        width: 60px;
+    }
+    #email{
+        width: 260px;
+    }
+ }
